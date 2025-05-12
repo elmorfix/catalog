@@ -1,2 +1,3 @@
-# catalog
-Um pequeno projeto para ser utilizado como um catálogo de produtos e serviços.
+# A simple project made to be a catalog
+Just a simple VUE project to make my life easier.
+
